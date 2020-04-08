@@ -1,0 +1,14 @@
+.radius-10{
+    border-radius: 10px !important;
+}
+.radius-20{
+    border-radius: 20px !important;
+}
+body{
+    font-family:'Oxanium',"Speda" !important;
+    src: url(Speda.ttf);
+}
+@font-face {
+    font-family: 'Speda';
+    src: url('Speda.ttf'); 
+  }
